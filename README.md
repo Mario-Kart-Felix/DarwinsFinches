@@ -1,5 +1,5 @@
 # Darwin's Finches
-Statistical analysis on ''40 years of evolution. Darwin's finches on Daphne Major Island'' (https://doi.org/10.5061/dryad.g6g3h). This analysis was part of [DataCamp's statistical thinking course](https://campus.datacamp.com/courses/statistical-thinking-in-python-part-2/). Results show introgressive hybridization of two finch species on Daphne Major. 
+Statistical analysis on [''40 years of evolution. Darwin's finches on Daphne Major Island''](https://doi.org/10.5061/dryad.g6g3h). This analysis was part of [DataCamp's statistical thinking course](https://campus.datacamp.com/courses/statistical-thinking-in-python-part-2/). Results show introgressive hybridization of two finch species on Daphne Major. 
 
 ## Table of Contents
 * [Abstract](#abstract)
